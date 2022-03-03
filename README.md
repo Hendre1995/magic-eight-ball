@@ -1,3 +1,5 @@
+ask simple 'yes' , 'no' questions and have the eight ball awnser you !
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
